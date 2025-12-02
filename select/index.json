@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "YAMABIKO",
+  "base_artist": "NakamuraEmi",
+  "createdAt": "2025-12-02T17:18:56.961096Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "YAMABIKO",
+      "artist": "NakamuraEmi",
+      "has_synced": true,
+      "path": "select/01_YAMABIKO_NakamuraEmi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "YAMABIKO - LIVE: 2019/6/18 @Zepp DiverCity",
+      "artist": "NakamuraEmi",
+      "has_synced": false,
+      "path": "select/02_YAMABIKO_-_LIVE__2019_6_18_@Zepp_DiverCity_NakamuraEmi.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Australophilia / The Fire in Yamabiko Forest",
+      "artist": "Pacific Purgatory",
+      "has_synced": true,
+      "path": "select/03_Australophilia___The_Fire_in_Yamabiko_Forest_Pacific_Purgatory.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "YAMABIKO (At Zepp DiverCity, Tokyo, 18/6/2019)",
+      "artist": "NakamuraEmi",
+      "has_synced": false,
+      "path": "select/04_YAMABIKO_(At_Zepp_DiverCity,_Tokyo,_18_6_2019)_NakamuraEmi.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "YAMABIKO",
+      "artist": "NakamuraEmi",
+      "has_synced": false,
+      "path": "select/pl_01_YAMABIKO_NakamuraEmi.txt"
+    }
+  ]
+}
